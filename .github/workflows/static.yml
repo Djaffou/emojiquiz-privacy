@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de confidentialité — EmojiQuiz</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
+    h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+    h2 { margin-top: 32px; color: #444; }
+    a { color: #2563eb; }
+    code { background: #f3f4f6; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Politique de confidentialité — EmojiQuiz</h1>
+  <p><strong>Dernière mise à jour :</strong> 25 mai 2026</p>
+
+  <p>EmojiQuiz (« l'Application ») est édité par <strong>Safy Djaffar</strong>.<br>
+  Pour toute question : <a href="mailto:emojiquiz02@gmail.com">emojiquiz02@gmail.com</a></p>
+
+  <h2>1. Données collectées</h2>
+  <p>L'Application collecte les données suivantes :</p>
+  <ul>
+    <li><strong>Adresse e-mail</strong> (facultatif) — uniquement si vous créez un compte avec e-mail / mot de passe. Le mode invité n'en demande pas.</li>
+    <li><strong>Pseudo et avatar</strong> (facultatif) — choisis par vous, visibles par les autres joueurs dans les classements et duels.</li>
+    <li><strong>Identifiant utilisateur (UID Firebase)</strong> — généré automatiquement pour identifier votre compte.</li>
+    <li><strong>Progression de jeu</strong> — niveaux complétés, scores, séries de victoires, historique des duels, classement Elo, XP saison.</li>
+    <li><strong>Token de notification (FCM)</strong> — identifiant technique de votre appareil servant à envoyer les notifications de duel.</li>
+    <li><strong>Données de diagnostic et journaux de plantage</strong> — fournis par Firebase Crashlytics et Firebase Analytics pour identifier les bugs et améliorer l'application.</li>
+  </ul>
+  <p>L'Application ne collecte <strong>aucune</strong> des données suivantes : position géographique, contacts, messages, photos, fichiers, informations financières, informations de santé, données de navigation web.</p>
+
+  <h2>2. Finalités</h2>
+  <p>Ces données sont utilisées pour :</p>
+  <ul>
+    <li>faire fonctionner le jeu (sauvegarde de progression, duels en ligne, classements) ;</li>
+    <li>vous envoyer des notifications liées à vos parties (duel lancé, duel terminé) ;</li>
+    <li>analyser l'utilisation de l'application et corriger les bugs.</li>
+  </ul>
+  <p>Aucune donnée n'est utilisée à des fins publicitaires ou marketing. Aucune donnée n'est revendue.</p>
+
+  <h2>3. Partage avec des tiers</h2>
+  <p>Les données sont stockées et traitées par <strong>Google Firebase</strong> (Authentication, Firestore, Cloud Messaging, Crashlytics, Analytics) en tant que sous-traitant. Firebase est soumis à sa propre politique : <a href="https://firebase.google.com/support/privacy">https://firebase.google.com/support/privacy</a></p>
+  <p>L'Application n'utilise <strong>aucun</strong> SDK publicitaire ni de mesure marketing tiers.</p>
+
+  <h2>4. Sécurité</h2>
+  <p>Toutes les communications avec nos serveurs sont chiffrées en HTTPS / TLS. Les mots de passe sont gérés et chiffrés par Firebase Authentication.</p>
+
+  <h2>5. Conservation et suppression</h2>
+  <p>Vos données sont conservées tant que votre compte est actif.</p>
+  <p>Vous pouvez à tout moment demander la suppression de votre compte et de toutes les données associées via le formulaire suivant :<br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5lBdQP913Z8WdfnqDpaY3U6pG5sZmOXkyBRC76qfm72jJaA/viewform?usp=dialog">https://docs.google.com/forms/d/e/1FAIpQLSf5lBdQP913Z8WdfnqDpaY3U6pG5sZmOXkyBRC76qfm72jJaA/viewform?usp=dialog</a></p>
+  <p>La suppression est traitée sous 30 jours maximum, conformément au RGPD.</p>
+
+  <h2>6. Enfants</h2>
+  <p>L'Application n'est pas destinée aux enfants de moins de 13 ans. Aucune donnée n'est sciemment collectée auprès de cette tranche d'âge.</p>
+
+  <h2>7. Vos droits (RGPD)</h2>
+  <p>Si vous résidez dans l'Union européenne, vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, de portabilité et d'opposition concernant vos données. Pour exercer ces droits, contactez : <a href="mailto:emojiquiz02@gmail.com">emojiquiz02@gmail.com</a></p>
+
+  <h2>8. Modifications</h2>
+  <p>Toute modification de la présente politique sera publiée sur cette page avec une nouvelle date de mise à jour.</p>
+</body>
+</html>
